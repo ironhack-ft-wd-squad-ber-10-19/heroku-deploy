@@ -66,7 +66,7 @@ You should get a prompt asking if you want to use the URI in your clipboard. Acc
 
 Select *Connect*, *New Connection* and *From URI* on the main tab. Just paste the link and you're set up! Next time, just select the connection.
 
-<!---
+
 ## React deploy
 
 
@@ -106,7 +106,7 @@ app.use((req, res) => {
   res.sendFile(__dirname + "/client/build/index.html");
 });
 ```
---->
+
 ### Heroku 
 
 On heroku, nothing changes! You can start by adding the mLab add on, and ensuring that you have copied all your .env variables
